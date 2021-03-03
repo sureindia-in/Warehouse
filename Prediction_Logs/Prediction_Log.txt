@@ -1,0 +1,17 @@
+2021-03-04 00:25:57,679 Start of Prediction
+2021-03-04 00:25:57,679 Intializing device
+2021-03-04 00:25:57,679 Using CPU
+2021-03-04 00:25:57,679 
+2021-03-04 00:25:57,818 Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2021-03-04 00:25:57,819 Loading model
+2021-03-04 00:25:57,819 Loading classifier
+2021-03-04 00:25:57,819 Setting up DataLoader
+2021-03-04 00:25:57,820 Running inference on Image
+2021-03-04 00:25:57,822 Calculating inference time
+2021-03-04 00:25:58,045 Applying NMS
+2021-03-04 00:25:58,046 Applying Classifier
+2021-03-04 00:25:58,046 Processing detections
+2021-03-04 00:25:58,047 Adding bbox and no. of detections on image
+2021-03-04 00:25:58,047 Total detections and image-size 288x416 1 pallets, 
+2021-03-04 00:25:58,047 Saving Image to Good_Predictions output folder
+2021-03-04 00:26:00,562 End of prediction

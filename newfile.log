@@ -1,0 +1,21 @@
+2020-12-25 00:28:04,860 Started server process [21344]
+2020-12-25 00:28:04,861 Waiting for application startup.
+2020-12-25 00:28:04,861 Application startup complete.
+2020-12-25 00:28:04,861 Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2020-12-25 00:28:10,295 Start of Prediction
+2020-12-25 00:28:10,296 Intializing device
+2020-12-25 00:28:10,296 Using CPU
+2020-12-25 00:28:10,296 
+2020-12-25 00:28:10,486 Model Summary: 140 layers, 7.25731e+06 parameters, 0 gradients
+2020-12-25 00:28:10,487 Loading model
+2020-12-25 00:28:10,487 Loading classifier
+2020-12-25 00:28:10,487 Setting up DataLoader
+2020-12-25 00:28:10,488 Running inference on Image
+2020-12-25 00:28:10,502 Calculating inference time
+2020-12-25 00:28:10,825 Applying NMS
+2020-12-25 00:28:10,826 Applying Classifier
+2020-12-25 00:28:10,826 Processing detections
+2020-12-25 00:28:10,827 Adding bbox and no. of detections on image
+2020-12-25 00:28:10,834 Total detections and image-size 320x416 16 boxs, 1 pallets, 
+2020-12-25 00:28:10,835 Saving Image to output folder
+2020-12-25 00:28:10,843 End of prediction
